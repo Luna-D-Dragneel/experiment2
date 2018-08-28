@@ -1,4 +1,4 @@
-p{color: green;}
+p{color: blue;}
 h2{font-family: sans-serif;}
 p{font-family: fantasy;}
 h1{font-size: 30px}
@@ -12,6 +12,12 @@ h1{font-size: 30px}
   text-transform: lowercase;
   color: purple
 }
+title{font-variant-numeric: normal;
+        font-family: sans-serif;
+      font-stretch: semi-condensed;
+      text-transform: inherit;
+      font-style: oblique;
+    }
 /*
 this is a comment
-*/
+*
